@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	font-family: "Ubuntu", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: #ffffff;
+	/* font-family: 'Bebas Neue', cursive;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Ubuntu', sans-serif; */
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
+
+.script-font {
+	font-family: "Pacifico", cursive;
+}
+
+.section-title {
+	font-size: 2.625rem;
+	font-family: "Pacifico", cursive;
+	text-align: center;
+	text-transform: capitalize;
+	margin-top: 0;
+	margin-bottom: 1.75rem;
+}
+.section {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: #1F2833;
+}
+.huge-font {
+	font-size: 9rem;
+	font-family: 'Bebas Neue', cursive;
+	margin: 0;
+	color: #66FCF1;
+}
+
+.MuiOutlinedInput-notchedOutline{
+	border-color: rgba(255,255,255,0.5) !important;
+}
+.MuiInputBase-root{
+	color: rgba(255,255,255,0.5) !important;
+}
+.my-btn{
+	background-color: #66FCF1 !important;
+	height: '50px';
+}
+.my-btn:hover{
+	background-color: #45A29E !important;
+	
+}
+.footer {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #0b0c10;
+	text-align: center;
+}
